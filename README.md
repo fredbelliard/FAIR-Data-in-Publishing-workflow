@@ -21,4 +21,4 @@ For all OA journals, list the steps of the publishing workflows and make a gener
 Choose how and when to introduce FAIR Data in the workflow
 
 #### Milestone 1: Identify publishing workflow stages ####
-submission - peer review - publication
+submission - peer review - publication 
