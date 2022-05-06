@@ -5,7 +5,7 @@
 
 ### Milestones ###
 1. Identify publishing workflow stages
-2. identify several point of entry for implentaing data sharing 
+2. identify check points for data sharing into publishing worflow
 3. Add FAIR Data to the publishing workflow 
 4. Revise publishing workflow
 6. Create a guide for journals users 
