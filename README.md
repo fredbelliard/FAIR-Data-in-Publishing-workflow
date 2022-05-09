@@ -1,7 +1,7 @@
 # FAIR-Data-in-Publishing-workflow
 ## Implement data sharing in academic publishing workflow for Open Access Journals ##
 
-*Keywords: open data, FAIR Data, atat sharing, metadata, open publishing*
+*Keywords: open data, FAIR Data, data sharing, metadata, open publishing*
 
 ### Milestones ###
 1. Identify publishing workflow stages
