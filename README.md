@@ -25,3 +25,4 @@ Choose how and when to introduce FAIR Data in the workflow
 submission - peer review - publication 
 
 #### identify in the workflow check points for data sharing  ####
+befre submission; before peer-review;after peer-review; after publication
