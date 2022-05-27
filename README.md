@@ -7,7 +7,7 @@
 1. Identify publishing workflow stages
 2. identify in the workflow check points for data sharing 
 3. get feedback from journal editors
-4. Add FAIR Data to the publishing workflow 
+4. Use a Proof of Concept to implement ne pblishing workflow 
 5. Revise publishing workflow
 6. Create a guide for journals users 
 7. make visuals to highlight benefits of FAIR Data for journals users in open publishing
