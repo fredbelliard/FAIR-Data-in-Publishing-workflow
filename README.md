@@ -22,7 +22,7 @@ In most of the Open Access (OA) journals of TU Delft OPEN Publishing there is a 
 2. Consider open data badges https://www.acm.org/publications/artifacts and 
 3. Check Open results of the data badges: Pilot results, Challenges, and Opportunities https://researchdata.springernature.com/posts/open-data-badges-pilot-results-challenges-and-opportunities
 4. Focus and encourage Data Citation https://www.project-freya.eu/en/pid-graph/the-pid-graph rather than DAS which is a standard section in most publications
-5. provide a template for DAS and example of dataset ciations & DAS
+5. provide a template for DAS and datsets Reviewers and example of dataset ciations & DAS
 
 ## Data Availibity Statement (DAS) ##
 1. DAS often incomplete or in contradiction with FAIR data statement 
