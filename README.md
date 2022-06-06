@@ -28,9 +28,7 @@ In most of the Open Access (OA) journals of TU Delft OPEN Publishing there is a 
 1. DAS often incomplete or in contradiction with FAIR data statement 
 2. _Data available upon request_ is NOT acceptable
 3. DAS should include datasets DOI and meaningful metadata
-![image](https://user-images.githubusercontent.com/100927928/170696614-cd6fb028-2fdd-4caf-afaa-253b527defc3.png)
 5. DAS template could be useful
-![image](https://user-images.githubusercontent.com/100927928/170697324-cbea171a-eef0-452a-940d-f478a6c2c49e.png)
 
 ## Datasteward role ##
 1. as expert they could perfome the DAS check of every submission
