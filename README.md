@@ -32,7 +32,7 @@ In most of the Open Access (OA) journals of TU Delft OPEN Publishing there is a 
 
 ## Datasteward role ##
 1. as expert they could perfome the DAS check of every submission
-2. in teh case of TU Delft OPEn Publishing => approach 4TU Research data  
+2. in the case of TU Delft OPEN Publishing => approach TU Datastewards to hear their thoughts and 4TU.Research.Data 
 
 ## What needs to be done ##
 
