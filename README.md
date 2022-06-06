@@ -44,6 +44,6 @@ Choose how and when to introduce FAIR Data in the workflow
 #### Milestone 1: Identify publishing workflow stages ####
 submission - peer review - publication 
 
-#### identify in the workflow check points for data sharing  ####
+#### Milestone 2: Identify in the workflow check points for data sharing  ####
 before submission; before peer-review;after peer-review; after publication
 
