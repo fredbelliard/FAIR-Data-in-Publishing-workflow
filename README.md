@@ -46,4 +46,5 @@ submission - peer review - publication
 
 #### Milestone 2: Identify in the workflow check points for data sharing  ####
 before submission; before peer-review;after peer-review; after publication
+Workflow and explanation => Publishing steps for OA journals with FAIR data check https://github.com/fredbelliard/FAIR-Data-in-Publishing-workflow/issues/2
 
