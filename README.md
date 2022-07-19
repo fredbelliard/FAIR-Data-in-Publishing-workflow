@@ -24,13 +24,16 @@ In most of the Open Access (OA) journals of TU Delft OPEN Publishing there is a 
 4. Focus and encourage Data Citation https://www.project-freya.eu/en/pid-graph/the-pid-graph rather than DAS which is a standard section in most publications
 5. provide a template for DAS and datsets Reviewers and example of dataset ciations & DAS
 
+## Metadata Check ##
+
+
 ## Data Availibity Statement (DAS) ##
 1. DAS often incomplete or in contradiction with FAIR data statement 
 2. _Data available upon request_ is NOT acceptable
 3. DAS should include datasets DOI and meaningful metadata
 5. DAS template could be useful
 
-## Datasteward role ##
+## Datasteward/Datamanager/Data Curator role ##
 1. as expert they could perfome the DAS check of every submission
 2. in the case of TU Delft OPEN Publishing => approach TU Datastewards to hear their thoughts and 4TU.Research.Data 
 
