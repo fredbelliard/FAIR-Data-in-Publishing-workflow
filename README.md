@@ -26,6 +26,10 @@ In most of the Open Access (OA) journals of TU Delft OPEN Publishing there is a 
 
 ## Metadata Check ##
 
+1. Review the metadata and look at the data files => make series of suggestions for improvement of metadata. 
+2. Looking at the data files helps to identify more interoperable means of sharing (e.g. more interoperable file formats), and also helps to prevent e.g. Researchers accidentally sharing personal data
+3. Presence of a README file 
+
 
 ## Data Availibity Statement (DAS) ##
 1. DAS often incomplete or in contradiction with FAIR data statement 
