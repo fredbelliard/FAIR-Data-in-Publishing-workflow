@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T06:46:13.943Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZUC76J8sNlmsMsrwETVx" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T06:54:26.112Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NP55oMsEL8xCUADeFAAS" version="20.1.1" type="github">
   <diagram id="VxfxTeUdZXtsKRvmo0yV" name="Page-1">
     <mxGraphModel dx="1160" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -22,8 +22,8 @@
         <mxCell id="mLH5fDm6BgMD-erpcmas-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#00CC66;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/arrows-and-universal-actions-icon-set/256/ok_circle-128.png;fontSize=14;fontColor=#00CC66;strokeColor=#000000;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="644.4300000000001" y="350" width="79" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="mLH5fDm6BgMD-erpcmas-23" value="Radio button datasets&lt;br&gt;visible on article&amp;nbsp;landing page" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontColor=#888888;fontFamily=Verdana;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="909.24" y="600" width="210" height="30" as="geometry" />
+        <mxCell id="mLH5fDm6BgMD-erpcmas-23" value="recognition: &lt;br&gt;1.on the journal page 2.&lt;br&gt;in the article under Contributor roles&lt;br&gt;Visibility &lt;br&gt;Radio button datasets&lt;br&gt;visible on article&amp;nbsp;landing page" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontColor=#888888;fontFamily=Verdana;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="909.24" y="600" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mLH5fDm6BgMD-erpcmas-32" value="&lt;div style=&quot;line-height: 150%&quot;&gt;&lt;font color=&quot;#cc6600&quot;&gt;Submit&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#4D4D4D;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="110" y="20" width="110" height="40" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry x="734.9999999999999" y="425" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mLH5fDm6BgMD-erpcmas-90" value="&lt;div style=&quot;line-height: 120%; font-size: 13px;&quot;&gt;&lt;font style=&quot;line-height: 120%; font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Datasets citable&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Datasets accessible&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;DAS complete&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
-          <mxGeometry x="755" y="495.00000000000006" width="140" height="50" as="geometry" />
+          <mxGeometry x="755" y="470.00000000000006" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mLH5fDm6BgMD-erpcmas-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#00EB75;strokeWidth=2;" parent="1" source="mLH5fDm6BgMD-erpcmas-83" target="mLH5fDm6BgMD-erpcmas-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -117,8 +117,14 @@
             <mxPoint x="953.8000000000002" y="584" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mLH5fDm6BgMD-erpcmas-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=19;fontColor=#00B85C;strokeWidth=2;" parent="1" source="mLH5fDm6BgMD-erpcmas-8" target="mLH5fDm6BgMD-erpcmas-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mLH5fDm6BgMD-erpcmas-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=19;fontColor=#00B85C;strokeWidth=2;" parent="1" source="mLH5fDm6BgMD-erpcmas-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1014" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1014" y="560" />
+              <mxPoint x="1014" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mLH5fDm6BgMD-erpcmas-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/office-icons-17/512/ilustracoes_04-14-128.png;fontSize=12;strokeColor=#000000;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="959.24" y="335" width="110" height="110" as="geometry" />
